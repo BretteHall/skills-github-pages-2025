@@ -1,4 +1,8 @@
 ---
 title: Welcome to my blog!
 ---
-section 1
+Section 1
+Here I'm testing italic and bold
+---
+Section 2
+
